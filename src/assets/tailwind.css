@@ -1,0 +1,11 @@
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+
+
+@import url('https://fonts.googleapis.com/css?family=Delius+Swash+Caps');
+/* @import url('https://fonts.googleapis.com/css?family=Nunito'); */
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
