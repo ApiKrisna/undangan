@@ -31,7 +31,7 @@
                 </div>
             </div>
         </div>
-        <a class="btn btn-draw btn-sm mt-5" target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Api+%26+Krisna&details=Pernikahan+Api+Dan+Krisna&location=Namina+Resto+%26+Private+Resto%2C+Jl.+Raya+Garut+-+Cikajang+No.km+14%2C+Sirnagalih%2C+Kec.+Cisurupan%2C+Kabupaten+Garut%2C+Jawa+Barat+44163%2C+Indonesia&dates=20221008T030000Z%2F20221008T080000Z">
+        <a class="btn btn-draw btn-sm mt-5" target="_blank" href="https://www.google.com/calendar/render?action=TEMPLATE&text=Pernikahan+Api+%26+Krisna&details=Pernikahan+Api+Dan+Krisna&location=Heima+Awiligar%2C+Cibeunying+Kec.+Cimenyan,+Kabupaten+Bandung,+Jawa+Barat+40191%2C+Indonesia&dates=20221207T030000Z%2F20221207T080000Z">
             Simpan Tanggal
         </a>
     </div>
