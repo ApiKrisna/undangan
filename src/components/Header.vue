@@ -17,7 +17,7 @@
                 <div class="col-7 col-md-6">
                     <div class="couple-wrapper">
                         <div class="couple-img we">
-                            <img src="../assets/we.jpg" alt="Api dan Krisna" class="img-fluid"/>
+                            <img src="../assets/header.jpg" alt="Api dan Krisna" class="img-fluid"/>
                         </div>
                         <img src="../assets/bg-couple.svg" class="couple-decor">
                     </div>
