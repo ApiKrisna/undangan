@@ -102,7 +102,7 @@ export default {
 }
 .mempelai {
     font-family: 'Passions Conflict';
-    font-size: 90px;
+    font-size: 80px;
 }
 
 
